@@ -1,1 +1,1 @@
-node.snipernetwork.fun:4032
+bot.qbitnode.com:5005
