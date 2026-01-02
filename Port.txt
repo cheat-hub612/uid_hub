@@ -1,1 +1,1 @@
-212.227.65.132:9583
+node.snipernetwork.fun:4032
